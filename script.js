@@ -33,6 +33,7 @@ const init = function () {
     playerEl.style.backgroundColor='#343434';
 }
 
+init();
 
 // const randomNum = function () {
 //     return Math.trunc(Math.random() * 3) + 1;
